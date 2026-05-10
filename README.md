@@ -8,8 +8,8 @@ Primary developer of **Buraco** – a real-time multiplayer card game (WebSocket
 
 🔧 **Core tech:** Unity, C#, WebSocket, Firebase, PlayFab, Addressables, IAP, Git Actions.
 
-📦 **Public examples (work-in-progress, coming soon):**
-- State Driven Poker Roguelike
+📦 **Public examples:**
+- [State Driven Poker Roguelike](https://github.com/gustavogmartins/State-Driven-Poker-Roguelike-Prototype)
 
 🎥 **Published games:**  
 - [Buraco (Google Play)](https://play.google.com/store/apps/details?id=com.JogosdoRei.JogosDoReiMobile&hl=en_US) | [App Store](https://apps.apple.com/us/app/buraco-online-jogos-do-rei/id6754886357)
